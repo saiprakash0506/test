@@ -1,5 +1,0 @@
-{{#user}}
-Name: SaiprakashReddy
-Skills: HTML, CSS, JS, Node.js,git,github,C,Python.
-Email: konapasaip@gmail.com
-{{/user}}
